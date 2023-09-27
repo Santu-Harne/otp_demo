@@ -1,1 +1,19 @@
 "# otp_demo" 
+.env file necessary credentials
+
+PORT=7000
+
+ACCESS_TOKEN_SECRET=
+
+USERS_MONGO_URL=
+
+
+MAIL_ID=
+MAIL_PASSWORD=
+MAIL_PORT=465
+MAIL_HOST=smtp.gmail.com
+MAIL_SERVICE=gmail
+
+TWILIO_SID=
+TWILIO_AUTH_TOKEN=
+TWILIO_PHONE_NUMBER=
